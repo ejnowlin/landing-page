@@ -25,6 +25,11 @@ body {
     color: #F9FAF8;
 }
 
+.header-links {
+    display: flex;
+    gap: 20px;
+}
+
 ul {
     margin: 0;
     padding: 0;
