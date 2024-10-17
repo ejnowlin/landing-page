@@ -47,3 +47,17 @@ a {
     margin: auto;
     gap: 30px;
 }
+
+.hero-main {
+    display: flex;
+    font-size: 48px;
+    padding: 5px;
+    font-weight: 900;
+    color: #F9FAF8;
+}
+
+.hero-text {
+    padding: 5px;
+    font-size: 18px;
+    color: #F9FAF8;
+}
