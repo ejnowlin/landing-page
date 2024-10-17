@@ -106,3 +106,12 @@ a {
     gap: 5px;
     margin: 5px;
 }
+
+.blue-box {
+    width: 150px;
+    height: 150px;
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 10px;
+    border-color: #3882F6;
+}
