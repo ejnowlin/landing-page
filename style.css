@@ -142,3 +142,17 @@ a {
     font-size: 28px;
     font-weight: 600;
 }
+
+.signup-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    flex: auto;
+    gap: 10px;
+    margin: 75px 150px;
+    padding: 50px 100px;
+    border-radius: 5px;
+    background-color: #3882F6;
+    color: #F9FAF8;
+}
