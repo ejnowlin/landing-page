@@ -136,3 +136,9 @@ a {
     font-weight: lighter;
     font-style: italic;
 }
+
+.attribution {
+    align-self: flex-end;
+    font-size: 28px;
+    font-weight: 600;
+}
