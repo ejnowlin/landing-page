@@ -161,3 +161,8 @@ a {
     display: flex;
     flex-direction: column;
 }
+
+.signup-header {
+    font-size: 20px;
+    font-weight: bold;
+}
