@@ -72,3 +72,13 @@ a {
     background-color: #3882F6;
     font-weight: 900;
 }
+
+.placeholder {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    height: 250px;
+    background-color: rgb(140, 139, 139);
+    color: #E5E7EB;
+}
