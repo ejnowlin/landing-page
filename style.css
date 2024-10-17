@@ -177,3 +177,12 @@ a {
     background-color: #3882F6;
     color: #F9FAF8;
 }
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 75px;
+    background-color: #1F2937;
+    color: #F9FAF8;
+}
