@@ -91,3 +91,10 @@ a {
     font-weight: 900;
     color: #1F2937;
 }
+
+.info-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 0px 175px 100px;
+}
