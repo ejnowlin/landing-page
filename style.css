@@ -98,3 +98,11 @@ a {
     flex-wrap: wrap;
     margin: 0px 175px 100px;
 }
+
+.content-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+    margin: 5px;
+}
