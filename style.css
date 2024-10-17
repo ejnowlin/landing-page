@@ -115,3 +115,9 @@ a {
     border-radius: 10px;
     border-color: #3882F6;
 }
+
+.random-subtext {
+    text-align: center;
+    width: 150px;
+    color: gray;
+}
